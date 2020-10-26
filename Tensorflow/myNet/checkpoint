@@ -1,0 +1,2 @@
+model_checkpoint_path: "testSave01.ckpt"
+all_model_checkpoint_paths: "testSave01.ckpt"
